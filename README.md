@@ -1,9 +1,9 @@
 ## <span style="color: blue;"> My Github Profile </span>
 # Hallo gess
 Nama: Zidan Maulana Ibrahim 
-<br>Asal saya dari Sukabumi Jawa Barat</br>
-<br> saya lahir di sukabumi pada tanggal 29 maret 2006</br>
-<br>disini saya akan menceritakan pengalaman saya sebelum masuk ke PeTIK</br>
+<p>Asal saya dari Sukabumi Jawa Barat</p>
+<p> saya lahir di sukabumi pada tanggal 29 maret 2006</p>
+<p>disini saya akan menceritakan pengalaman saya sebelum masuk ke PeTIK</p>
 Saya suka belajar Linux, jaringan, dan pemrograman.
 
 Terima kasih sudah berkunjung ke profil saya 😊
